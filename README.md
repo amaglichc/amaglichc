@@ -1,4 +1,4 @@
 Hello world!
 My name is Mikl
-I'm learning game development
+I'm learning web development
 See you later 
