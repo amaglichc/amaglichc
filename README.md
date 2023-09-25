@@ -1,3 +1,3 @@
 Hello world!
 My name is Mikl
-I'm learning с++
+I'm learning web development
