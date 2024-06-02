@@ -6,4 +6,4 @@ Study Web Dev, want to Faang
 
 *   🌍  I'm based in Perm
 *   🧠  I'm learning Web dev, Python
-*       > [My Leetcode profile](https://leetcode.com/u/amaglichc/)
+[My Leetcode profile](https://leetcode.com/u/amaglichc/)
