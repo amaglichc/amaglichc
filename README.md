@@ -1,9 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael
+Hi there! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===============================================================================================================================
 
-Study Web Dev, want to get the fuck out of Russia.
+Study software engineering 
 ---------------------------------------
-
-*   🌍  I'm based in Perm
-*   🧠  I'm learning Web dev, Python
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,fastapi,mongodb,postgres,py,redis" />
+  </a>
+</p>
 *   [My Leetcode profile](https://leetcode.com/u/amaglichc/)
