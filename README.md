@@ -3,10 +3,7 @@ Hi there! [](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 Study software engineering 
 ---------------------------------------
-<p align="center">
-  <a href="https://skillicons.dev">
-    <h3>My skills</h3>
-    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,mongodb,postgres,py,redis" />
-  </a>
-</p>
-*   [My Leetcode profile](https://leetcode.com/u/amaglichc/)
+<h3>My skills</h3>
+<img src="https://skillicons.dev/icons?i=git,docker,fastapi,mongodb,postgres,py,redis" />
+
+[My Leetcode profile](https://leetcode.com/u/amaglichc/)
