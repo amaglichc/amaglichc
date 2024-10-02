@@ -5,7 +5,8 @@ Study software engineering
 ---------------------------------------
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,fastapi,mongodb,postgres,py,redis" />
+    <h3>My skills</h3>
+    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,mongodb,postgres,py,redis" />
   </a>
 </p>
 *   [My Leetcode profile](https://leetcode.com/u/amaglichc/)
