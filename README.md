@@ -11,7 +11,6 @@ Study smth
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-![Metrics](https://metrics.lecoq.io/amaglichc?template=classic&base=header%2Cmetrics&isocalendar=true&languages=true&languages.limit=10)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaglichc&theme=github)
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/istmn)
