@@ -3,7 +3,8 @@ Hi there! [](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 Study smth
 ---------------------------------------
-<h3>My skills</h3>
+### My skills
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-4B8BBE?style=flat)
