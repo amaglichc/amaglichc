@@ -11,8 +11,8 @@ Study smth
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=твой-профиль&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твой-профиль&layout=compact&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/amaglichc?template=classic&base=header%2Cmetrics&isocalendar=true&languages=true&languages.limit=10)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaglichc&theme=github)
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/istmn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaglichc@gmail.com)
